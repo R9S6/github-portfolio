@@ -3,7 +3,7 @@
 A tiny aerospace tool that computes **glider horizontal range** and **glide angle** from **altitude (m)** and **glide ratio (L/D)**.
 
 ## Demo
-<img src="docs/screenshot-1.png" width="300" alt="AeroGlide screenshot" />
+<img src="docs/Screenshot_20250831_195232.png" width="300" alt="AeroGlide screenshot" />
 
 ## Features
 - Jetpack Compose UI (Material)
